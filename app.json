@@ -1,0 +1,19 @@
+{
+  "appKey": "g9DNgbzPo09jvHt1eH9LjV3mOlOr8L11",
+  "appSecret": "jJikIZGkXDIjNhbsp8OV4IoR9cT8tf0N",
+  "projectId": 104,
+  "id": 219,
+  "name": "test-app-serverless",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "asdfsadfsadf",
+  "git": {
+    "url": "https://github.com/Rihel/test-app-serverless.git",
+    "isPrivate": 0,
+    "username": "rihel",
+    "password": "Dqshanshan0327"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
